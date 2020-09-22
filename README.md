@@ -1,23 +1,5 @@
 ![Synthwave](./img/126456.png)
 
-<style>
-  body {
-    bacground-color: black;
-  }
-
-  h1, h2, h3 {
-    color: green;
-  }
-
-  h4 {
-    color: orange;
-  }
-
-  span {
-    color: purple;
-  }
-</style>
-
 ---
 
 ### dlanileonardo@github$ whoami
