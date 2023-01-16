@@ -12,12 +12,12 @@
 ---
 
 ### dlanileonardo@github$ github-stats
-<img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dlanileonardo&theme=synthwave&count_private=true" />
+<img width="50%" alt="GitHub Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=dlanileonardo&theme=synthwave&count_private=true" />
 
 ---
 
 ### dlanileonardo@github$ top-langs
-<img width="50%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanileonardo&layout=compact&count_private=true&theme=synthwave" />
+<img width="50%" alt="Top Langs" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=dlanileonardo&layout=compact&count_private=true&theme=synthwave" />
 
 ---
 
