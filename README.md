@@ -21,11 +21,13 @@
 
 ---
 
+<!--
 ### dlanileonardo@github$ spotify stats
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrdlani&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+-->
 
-<!-- --- -->
-
-<!-- <marquee>
+<!--
+<marquee>
   <h4>Synthwave is Awesome!</h4>
-</marquee> -->
+</marquee> 
+-->
